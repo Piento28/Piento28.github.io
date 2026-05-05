@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://piento28.github.io/al-folio/sitemap.xml
+Sitemap: https://li-xing.net/al-folio/sitemap.xml
